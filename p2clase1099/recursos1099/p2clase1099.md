@@ -1,0 +1,15 @@
+- Crear aplicacion sanchezclase_app
+- Comando --> python manage.py startapp sanchezclase_app
+- Creamos el archivo urls.py en sanchezclase_app
+- ![alt text](image.png)
+- En setting.py de p2clase1099
+- ![alt text](image-1.png)
+- En urls.py de p2clase1099
+- ![alt text](image-2.png)
+- En urls.py en sanchezclase_app
+- ![alt text](image-3.png)
+- En views.py en sanchezclase_app
+- ![alt text](image-4.png)
+- En urls.py en sanchezclase_app
+- ![alt text](image-5.png)
+- 
